@@ -1,0 +1,10 @@
+title: Élie Wang's Blog
+description: Notes on Tech, 3D, AI, Game Art and Research.
+theme: minima
+
+author:
+  name: Élie Wang
+
+header_pages:
+  - about.md
+  - projects.md
