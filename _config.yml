@@ -1,5 +1,5 @@
 title: Élie Wang's Blog
-description: Notes on Tech, 3D, AI, Game Art and Research.
+description: Notes on AI, Creative Production, Industry Strategy and Research.
 theme: minima
 
 author:
@@ -7,4 +7,3 @@ author:
 
 header_pages:
   - about.md
-  - projects.md
