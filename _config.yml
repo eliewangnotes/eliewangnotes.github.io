@@ -3,7 +3,8 @@ description: Notes on AI, Creative Production, Industry Strategy and Research.
 theme: minima
 
 author:
-  name: Élie Wang
+  name: Élie WANG
 
 header_pages:
   - about.md
+  - legal.md
